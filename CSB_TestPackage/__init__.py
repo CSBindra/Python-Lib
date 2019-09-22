@@ -1,5 +1,5 @@
-from File1 import Adder
-from File2 import Subtractor
+from CSB_TestPackage.File1 import Adder
+from CSB_TestPackage.File2 import Subtractor
 import logging
 
 
